@@ -1,0 +1,11 @@
+{
+  "name": "helpnpal",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "~0.7.6"
+  }
+}

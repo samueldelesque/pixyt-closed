@@ -1,0 +1,26 @@
+.main{
+	padding: 50px;
+	width: 500px;
+	max-width: 95%;
+	margin: 0 auto;
+}
+form,input,button{
+	border:none;
+}
+h1{
+	font-size: 40px;
+	font-weight: 100;
+}
+.intro{
+	font-weight: 200;
+	letter-spacing: .5px;
+	font-size: 20px;
+}
+.intro p{
+	margin:20px 0;
+}
+.footer{
+	background: #111;
+	padding: 50px;
+	color: #999;
+}
